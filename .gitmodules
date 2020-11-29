@@ -1,0 +1,3 @@
+[submodule "kottans-frontend"]
+	path = kottans-frontend
+	url = https://github.com/BazioDEV/kottans-frontend
