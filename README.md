@@ -1,9 +1,7 @@
-[![MIT Licensed][icon-mit]][license]
-[![Awesome][icon-awesome]][awesome]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram][icon-chat]][chat]
 # kottans-frontend
-
+***
 ## Linux CLI, and HTTP #done
 
 ![Screenshot_Lesson1](task_linux_cli/linux_survival.png)
+***
+
